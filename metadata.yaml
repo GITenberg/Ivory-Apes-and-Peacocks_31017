@@ -1,0 +1,39 @@
+_repo: Ivory-Apes-and-Peacocks_31017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huneker, James
+    alias: Huneker, James Gibbons
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '1597'
+    url: http://www.gutenberg.org/2009/agents/1597
+    wikipedia: http://en.wikipedia.org/wiki/James_Huneker
+description: ''
+gutenberg_issued: '2010-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- History and criticism'
+- !lcsh 'Art'
+- !lcsh 'Literature, Modern -- History and criticism'
+- !lcc 'PS'
+tableOfContents: 'The genius of Joseph Conrad -- A visit to Walt Whitman -- The buffoon
+  of the new eternities: Jules LaForgue -- Dostoïevsky and Tolstoy, and the younger
+  choir of Russian writers -- Arnold Schoenberg -- Music of to-day and to-morrow --
+  Frank Wedekind -- The magic Vermeer -- Richard Strauss at Stuttgart -- Max Liebermann
+  and some phases of modern German art -- A musical primitive: Modeste Moussorgsky
+  -- New plays by Hauptmann, Sudermann, and Schnitzler -- Kubin, Munch, and Gauguin:
+  masters of hallucination -- The cult of the nuance: Lafcadio Hearn -- The melancholy
+  of masterpieces -- The Italian futurist painters -- In the workshop of Zola -- A
+  study of de Maupassant -- Puvis de Chavannes -- Three disagreeable girls.'
+title: Ivory, Apes and Peacocks
+url: http://www.gutenberg.org/ebooks/31017
